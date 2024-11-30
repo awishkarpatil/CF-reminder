@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "CF-Reminder",
     "version": "1.0.0",
-    "author": "Hardik Kumar Singh",
+    "author": "Avishkar Patil",
     "language": "en",
     "description": "Stay updated about upcoming CF contests and rating changes!",
     "icons": {
